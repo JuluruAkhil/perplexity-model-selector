@@ -3,7 +3,6 @@
   "name": "Perplexity Model Selector",
   "version": "1.0",
   "description": "Adds AI model selection to the search interface",
-  "permissions": ["activeTab"],
   "host_permissions": ["https://www.perplexity.ai/*"],
   "content_scripts": [
     {
